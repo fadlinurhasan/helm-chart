@@ -3,11 +3,11 @@ entries:
   td-agent-barito:
   - apiVersion: v1
     appVersion: 0.2.15
-    created: "2019-09-24T19:48:51.30848+07:00"
+    created: "2019-09-24T20:00:58.323835+07:00"
     description: A Helm chart for Barito agent
-    digest: 4b42e6f737475d6331d4e1a706ff214a87548b5a5b983209d98ac04edc4655fa
+    digest: 368945b5856e0485fb5755885954a9889a38eca68bae639927c48c4359ee4322
     name: td-agent-barito
     urls:
     - https://fadlinurhasan.github.com/helm-charts/td-agent-barito-0.2.15.tgz
     version: 0.2.15
-generated: "2019-09-24T19:48:51.306679+07:00"
+generated: "2019-09-24T20:00:58.322206+07:00"
